@@ -15,7 +15,7 @@ SMTP_PORT = 587
 uvicorn app.main:app --reload
 
 # if successful running
-INFO:     Will watch for changes in these directories: ['/Users/setiaanggraeni/wibowo/coba/python_jwt_auth'] <br>
+INFO:     Will watch for changes in these directories: ['/wibowo/try_python_jwt_auth'] <br>
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)<br>
 INFO:     Started reloader process [6019] using StatReload<br>
 INFO:     Started server process [6021]
